@@ -1,0 +1,11 @@
+# Bifrost Gateway Cloud
+
+Bifrost Gateway Cloud is a SaaS workspace for AI gateway pricing.
+
+Website: https://bifrostgateway.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: AI gateway pricing
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
